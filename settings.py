@@ -1,0 +1,10 @@
+
+valid_email = 'test_rostel_1@ro.ru'
+valid_password = 'AyteSIRpi4^2'
+valid_login = 'rtkid_1681551326347'
+valid_phone = '7(999) 999 99 99'
+valid_pa = '594012823799'
+valid_name = 'Иван'
+valid_lastname = 'Иванов'
+valid_date_birth = '01.01.2000'
+valid_gorod = 'Москва'
